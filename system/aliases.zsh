@@ -8,3 +8,7 @@ then
   alias ll="gls -l --color"
   alias la='gls -A --color'
 fi
+
+# listing
+alias la='ls -a'
+alias cl='clear'

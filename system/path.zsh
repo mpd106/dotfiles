@@ -1,3 +1,1 @@
-export PATH="./bin:$HOME/.rbenv/shims:/usr/local/bin:/usr/local/sbin:$HOME/.sfs:$ZSH/bin:$PATH"
-
-export MANPATH="/usr/local/man:/usr/local/mysql/man:/usr/local/git/man:$MANPATH"
+export PATH=$PATH:/opt/local/sbin:/opt/local/bin:~/bin:/usr/local/git/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/opt/X11/bin
